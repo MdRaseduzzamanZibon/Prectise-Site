@@ -18,8 +18,7 @@ nav {
   font-size: 24px;
   font-weight: 700;
 }
-.menu a,
-.fa-magnifying-glass {
+.menu a, i {
   padding-left: 34px;
   text-decoration: none;
   color: #3a3a3a;
